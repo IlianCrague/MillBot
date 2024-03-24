@@ -1,0 +1,4 @@
+(lang dune 3.11)
+(name mill)
+(sections (lib .) (bin ../../bin) (doc ../../doc/mill))
+(files (lib (META dune-package opam)) (bin (mill)) (doc (README.md)))

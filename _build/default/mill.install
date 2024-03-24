@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/mill/META"
+  "_build/install/default/lib/mill/dune-package"
+  "_build/install/default/lib/mill/opam"
+]
+bin: [
+  "_build/install/default/bin/mill"
+]
+doc: [
+  "_build/install/default/doc/mill/README.md"
+]
